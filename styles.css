@@ -1,0 +1,778 @@
+
+
+
+img {
+  height: 860px;      
+  width: 1841px;
+  text-align: center;
+
+}
+
+.logo40 img{
+  height: 625px;
+  width: 592px;
+  margin-left: 1100px;
+  margin-top: -250px;
+}
+
+.example {
+  position: relative;
+}
+
+.example h1 {
+  position: absolute;
+  color: red;
+  font-weight: bold;
+  font-size: 45px;
+  font-family: Quicksand, sans-serif;
+  top: 240px;
+  left: 285px;
+}
+
+.example img {
+  width: 100%;
+}
+
+li {
+  list-style: none;
+}
+
+.example li {
+  position: absolute;
+  color: orange;
+  font-weight: bold;
+  font-size: 16px;
+  font-family: Quicksand, sans-serif;
+  top: 400px;
+  left: 285px;
+}
+
+.example h4 {
+  position: absolute;
+  color: pink;
+  font-weight: bold;
+  font-size: 16px;
+  font-family: Quicksand, sans-serif;
+  top: 432px;
+  left: 285px;
+}
+
+.example input {
+  position: absolute;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  font-family: Quicksand, sans-serif;
+  top: 480px;
+  left: 285px;
+  padding: 10px;
+  padding-left: 135px;
+  border-radius: 8px;
+  background-color: white;
+}
+.example h6 {
+  position: absolute;
+  color: white;
+  font-weight: bold;
+  font-size: 13px;
+  font-family: Quicksand, sans-serif;
+  top: 457px;
+  left: 550px;
+  padding: 10px;
+  padding-left: 24px;
+  padding-top: -10px;
+  border-radius: 5px;
+  background-color: rgb(9, 156, 107);
+}
+.example h5 {
+  position: absolute;
+  color: white;
+  font-weight: bold;
+  font-size: 16px;
+  font-family: Quicksand, sans-serif;
+  top: 500px;
+  left: 260px;
+  padding: 30px;
+}
+.example a {
+  position: absolute;
+  color: white;
+  font-weight: bold;
+  font-size: 15px;
+  font-family: Quicksand, sans-serif;
+  top: 525px;
+  left: 460px;
+  padding: 30px;
+}
+
+.center  img{
+  width: 426px;
+  height: 416px;
+  margin-left: 50px
+}
+
+.logo8 p {
+  font-weight: bold;
+  margin-top: 75px;
+  margin-bottom: -150px;
+  margin-left: 500px;
+  font-size: 45px;
+}
+
+h2 {
+  font-size: 18px;
+  padding-left: 55px;
+  padding-top: -5px;
+}
+.logo1 {
+  padding-left: 200px;
+  padding-top: 180px;
+}
+
+.logo2 {
+  padding-left: 645px;
+  margin-top: -506px;
+}
+
+.logo3 {
+  margin-top: -480px;
+  padding-left: 1090px;
+}
+
+.logo4 img {
+  height: 625px;
+  width: 677px;
+  margin-top:40px;
+  margin-left:85px;
+}
+
+ h3 {
+  font-family: MS Gothic;
+  color: black;
+  font-size: 50px;
+  margin-top: -400px;
+  margin-left: 1000px;
+}
+
+ .logo5 h3 {
+  font-size: 18px;
+  color: black;
+  margin-top: -15px;
+  margin-left: 1000px;
+}
+
+.logo5 a {
+  color: rgb(0, 168, 168);
+  
+  margin-left: 1000px;
+}
+ 
+.logo6 h1{
+  color: rgb(230, 230, 230);
+  background-color: rgb(230, 230, 230);
+  height: 625px;
+  width: 954px;
+  margin-left: 800px;
+  margin-top: -630px;
+}
+
+.bg_test {
+  margin-top: -50px;
+}
+
+.logo9 {
+  margin-top: -450px;
+  margin-left: 300px;
+  color: white;
+}
+
+.logo9 h1 {
+  font-size: 50px;
+
+}
+
+.logo9 p {
+  font-size: 18px;
+}
+
+.logo9 a {
+  color: white;
+  padding-top: -70px;
+}
+
+.logo10 {
+  margin-left: 85px;
+  margin-top: 580px;
+  background-color: rgb(0, 168, 168);
+  height: 625px;
+  width: 954px;
+}
+
+.logo10 h3 {
+  color: white;
+}
+
+.logo9 img {
+  height:625px;
+  width: 677px;
+  margin-left: 550px;
+  margin-top: -415px;
+}
+
+.logo11 img {
+  height: 625px;
+  width: 677px;
+  margin-left: 80px;
+  margin-top: 10px;
+}
+
+.logo11 p {
+  margin-left: 1005px;
+
+}
+
+.logo12 h1 {
+  color: rgb(230, 230, 230);
+  margin-left: 800px;
+  margin-top: -420px;
+  background-color: rgb(230, 230, 230);
+  height: 625px;
+  width: 954px;
+}
+
+.logo11 a {
+  color: rgb(0, 124, 128);
+  margin-left: 1005px;
+}
+
+.logo13 {
+  color: white;
+  margin-top: 190px;
+  margin-left: 370px;
+}
+
+.logo13 p {
+  padding-top: -15px;
+}
+
+.logo14 h1 {
+  color: rgb(0, 168, 168);
+   background-color: rgb(0, 168, 168);
+   height: 310px;
+   width: 1840px;
+   margin-top: -235px;
+   margin-left: 0px;
+}
+
+.logo15 {
+  color: white;
+}
+
+.logo15 h1 {
+  margin-left: 1100px;
+  margin-top: -130px;
+}
+
+.logo15 p {
+  margin-left: 1100px;
+}
+
+.logo16 img {
+  margin-top: 100px;
+  margin-left: 245px;
+  height: 625px;
+  width: 596px;
+}
+
+.logo17 p {
+  font-size: 23px;
+  margin-left: 1050px;
+  margin-top: -450px;
+  line-height: 2em;
+}
+
+.logo17 h1 {
+  color:  rgb(230, 230, 230);
+  background-color: rgb(230, 230, 230);
+  height: 625px;
+  width: 596px;
+  margin-left: 930px;
+  margin-top: -430px;
+}
+
+.logo18 h1{
+  font-size: 45px;
+  margin-left: 530px;
+  margin-top: 150px;
+}
+
+.logo18 p {
+  margin-left: 680px;
+  margin-top: -5px;
+}
+
+.logo18 input {
+  position: absolute;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  font-family: Quicksand, sans-serif;
+  padding: 10px;
+  padding-left: 135px;
+  margin-top: -10px;
+  margin-left: 680px;
+  border-radius: 8px;
+  background-color: white;
+}
+
+.logo19 h6 {
+  position: absolute;
+  color: white;
+  font-weight: bold;
+  font-size: 13px;
+  font-family: Quicksand, sans-serif;
+  padding: 10px;
+  padding-left: 24px;
+  padding-top: -10px;
+  margin-left: 940px;
+  margin-top: -3px;
+  border-radius: 5px;
+  background-color: rgb(9, 156, 107);
+}
+
+.logo18 h2 {
+  background-color: rgb(230, 230, 230);
+  height: 446px;
+  width: 1840px;
+  margin-top: -170px;
+  color: rgb(230, 230, 230);
+}
+
+.logo20 h4 {
+  margin-left: 830px;
+  margin-top: -170px;
+}
+
+.logo20 p {
+  margin-left: 680px;
+}
+
+.logo20 a {
+  color: skyblue;
+  margin-left: 850px;
+}
+
+.logo21 {
+  font-size: 15px;
+  padding-top: 40px;
+  margin-left: 350px;
+}
+
+.logo21 h4 {
+  margin-left: 38px;
+}
+
+.logo22 {
+  font-size: 15px;
+  margin-left: 680px;
+  margin-top: -200px;
+}
+
+.logo22 h4 {
+  margin-left: 38px;
+}
+
+.logo23 {
+  font-size: 15px;
+  margin-left: 1000px;
+  margin-top: -200px;
+}
+
+.logo23 h4 {
+  margin-left: 38px;
+}
+
+.logo24 {
+  font-size: 15px;
+  margin-left: 1300px;
+  margin-top: -225px;
+}
+
+.logo24 h4 {
+  margin-left: 38px;
+}
+
+.logo25 {
+  margin-top: 200px;
+  margin-left: 400px;
+}
+
+/* ここからスマホのCSS  */
+
+@media screen and (max-width: 750px) {
+
+     .example {
+       margin-left: 20px;
+     }
+     .example h1 {
+      margin-top: 240px;
+      margin-left: -240px;
+      font-size: 43px;
+   
+     }
+
+      .example img {
+        width: 750px !important;
+        height: 800px !important;
+        width: 100%;
+   
+      }
+
+       
+      .example li {
+        font-size: 20px !important;
+        margin-left: -240px;
+        margin-top: 270px;
+      }
+
+      .example h4 {
+        margin-top: 400px;
+        margin-left: -240px;
+        color: black;
+        font-size: 23px;
+      }
+
+      .example input {
+        padding: 10px;
+        margin-top: 450px;
+        margin-left: -240px;
+      }
+
+      .example h6 {
+        margin-left: -340px;
+        margin-top: 481px;
+        padding: 10px;
+        font-size: 12px;
+      }
+
+      .example h5 {
+        color: black;
+        margin-top: 500px;
+        margin-left: -240px;
+        font-size: 25px;
+      }
+
+      .example a {
+        color: rgb(25, 117, 105);
+        margin-top: 550px;
+        margin-left: -445px;
+        font-size: 25px;
+      }
+
+     
+      
+      .logo8 p {
+        color: #484848;
+        font-size: 32px;
+        margin-top: 120%;
+        margin-left: 20%;
+        border-top: 5px thin gray;
+        padding-top: 55px;
+        text-align: center;
+      }
+
+      .center img {
+        height: 520px;
+        width:500px;
+        margin-left: 16%;
+        margin-top: 10%;
+      }
+
+      .center h2 {
+        font-size: 35px;
+      }
+
+      .logo1 {
+        margin-left: -55%;
+      }
+      
+      .logo1 h2 {
+        margin-left: 10%;
+        text-align: center;
+        margin-right: 10%;
+     
+      }
+
+      .logo2 {
+        margin-top: 0%;
+        margin-left: -175%;
+      }
+
+      .logo2 h2 {
+        margin-left: 23%;
+        text-align: center;
+
+      }
+
+      .logo3 {
+        margin-top: 0%;
+        margin-left: -300%;
+      }
+
+      .logo3 h2 {
+        margin-left: 25%;
+        text-align: center;
+
+        border-bottom: 1px thin black;
+      }
+
+      .bg_test {
+        margin-left: -255%;
+        margin-top: -350%;
+        margin-right: -100%;
+      }
+
+      .logo30 h3 {
+        margin-right: -16%;
+        font-size: 40px;
+      }
+
+      .logo4 img {
+        margin-top: 200%;
+        margin-bottom: 40%;
+        height: 540px;
+        width: 718px;
+      }
+
+      .logo5 h3 {
+        font-size: 30px;
+        line-height: 1.4;
+        text-align: left;
+      }
+
+      .logo6 {
+        background-color: white;
+      }
+
+      .logo10 h3{
+        background-color: rgb(0, 168, 168);
+        background-size: contain;
+        margin-top: 95%;
+        margin-right: -350px;
+     }
+
+     .logo9  {
+       margin-right: 180px;
+       margin-bottom: 260px;
+     }
+
+     .logo9 h1 {
+       margin-right: -400px;
+       margin-left: -150px;
+       margin-top: -250px;
+       margin-bottom: 200px;
+       text-align: justify;
+      }
+
+      .logo9 p  {
+        font-size: 25px;
+        margin-right: -400px;
+        margin-left: -150px;
+        margin-top: -180px;
+        margin-bottom: 0px;
+       text-align: justify;
+      }
+
+      .logo9 a {
+        font-size: 20px;
+        margin-left: -160px;
+        margin-top: 50px;
+      }
+
+      .logo40 img {
+        height: 540px;
+        width: 718px;
+        margin-left: 85px;
+      }
+      
+      .logo12 img {
+        margin-top: 1400px;
+      }
+
+      .logo90 h3 {
+        margin-right: -300px;
+        margin-left: 200px;
+        margin-top: -1850px;
+      }
+
+      .logo90 p {
+        margin-right: -300px;
+        margin-left: 200px;
+        margin-top: -0px;
+        font-size: 25px;
+        text-align: justify;
+      }
+
+      .logo90 a {
+        margin-left: 75px;
+        margin-right: 0px;
+        font-size: 30px;
+      }
+
+      .logo90 {
+        margin-top: 880px;
+      }     
+
+      .logo80 img {
+        height: 540px;
+        width: 718px;
+       margin-top: 425px;
+      }
+
+      .logo13 h1 {
+        color: black;
+        font-size: 50px;
+      }
+
+      .logo13 p {
+        color: black;
+        font-size: 22px;
+      }
+
+      .logo13 {
+        color: white;
+        margin-left: 170px;
+        margin-right: -400px;
+        margin-top: 500px;
+
+        border: 1px thin white;
+      }
+
+      .logo14 h1 {
+        margin-top: -800px;
+        margin-bottom: 900px;
+        margin-left: 80px;
+        background-color:  rgb(0, 168, 168);
+        height: 900px;
+        width: 712px;
+      }
+
+      .logo15 h1 {
+        color: black;
+        font-size: 50px;
+      }
+
+      .logo15 p {
+        color: black;
+        font-size: 22px;
+      }
+
+      .logo15 {
+        margin-left: -960px;
+        margin-right: -280px;
+        margin-top: 400px;
+      }
+
+      .logo16 img {
+        height: 540px;
+        width: 718px;
+        margin-left: 75px;
+        margin-bottom: 500px;
+        margin-top: -700px;
+      }
+
+      .logo120 h1 {
+        margin-left: 130px;
+        
+      }
+
+      .logo120 p {
+        margin-left: 260px;
+        margin-right: -150px;
+        font-size: 23px;
+      }
+
+      .logo18 h1 {
+        margin-left: 200px;
+        margin-right: -350px;
+        font-size: 35px;
+      }
+
+      .logo18 p {
+        margin-left: 200px;
+        margin-right: -550px;
+        font-size: 30px;
+      }
+
+      .logo18 input {
+        margin-left: 200px;
+        margin-right: -200px;
+        margin-top: 20px;
+        padding: 40px;
+      }
+
+      .logo19 h6 {
+        margin-left: 320px;
+        margin-right: -350px;
+        margin-top: 50px;
+        padding: 15px;
+        font-size: 20px;
+      }
+
+      .logo130 h2 {
+        background-color: rgb(230, 230, 230);
+        height: 750px;
+        width: 718px;
+        margin-bottom: -50px;
+      }
+
+      .logo20  {
+        margin-right: 400px;
+      }
+
+      .logo20 h4 {
+        margin-left: 250px;
+        margin-right: -600px;
+        margin-top: -350px;
+        font-size: 28px;
+      }
+
+      .logo20 p {
+        margin-left: 150px;
+        margin-right: -600px;
+        margin-top: 50px;
+        font-size: 28px;
+        text-align: center;
+      }
+
+      .logo20 a {
+        margin-left: 2000px;
+        margin-right: -400px;
+        color: rgb(230, 230, 230);
+      }
+
+      .logo300 {
+        color: white;
+      }
+
+      .logo25 p {
+        margin-top: -3150px;
+        margin-left: -300px;
+        margin-right: -300px;
+        font-size: 30px;
+      }
+
+
+
+
+
+     
+
+
+
+
+
+ }
+
+
+ 
